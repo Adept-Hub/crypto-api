@@ -1,0 +1,21 @@
+{
+  "name": "vk-crypto-api",
+  "version": "1.0.0",
+  "description": "Модуль для удобного использования Crypto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "crypto",
+    "vk-crypto-api",
+    "vk",
+    "ВКонтакте",
+    "asjsit"
+  ],
+  "author": "asjsit",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
